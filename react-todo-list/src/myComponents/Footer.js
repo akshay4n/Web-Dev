@@ -11,7 +11,7 @@ export const Footer = () => {
         <footer className='bg-dark text-light py-3' /*style={footerStyle}*/>
             <p className="text-center">
                 Copyright &copy;
-                <a target='_blank' href='https://akshay4n.github.io/akshay4n/'>Akshay</a>
+                <a target='_blank' rel="noopener noreferrer" href='https://akshay4n.github.io/akshay4n/'>Akshay</a>
             </p>
         </footer>
     )
